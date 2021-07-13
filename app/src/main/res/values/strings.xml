@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bangla Kobita</string>
+
+    <string-array name="Stories_name">
+        <item> আবোল তাবোল </item>
+        <item> ভোর হলো  </item>
+
+        <item> হনহন পনপন </item>
+        <item> মামার বাড়ি </item>
+        <item> মোর ঘুম ঘোরে এলে মনোহর </item>
+        <item> নেমন্তন্ন  </item>
+        <item> পালকির গান </item>
+        <item> প্রতিদান </item>
+        <item> সবার আমি ছাত্র   </item>
+        <item> শুকনো পাতার নূপুর </item>
+        <item> আমাদের ছোটো নদী </item>
+    </string-array>
+</resources>
